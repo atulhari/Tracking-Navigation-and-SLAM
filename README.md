@@ -5,6 +5,7 @@ The exercises are all part of a typical application theme, namely tracking, navi
 • Tracking with extended Kalman filtering in nonlinear systems
 • Tracking with particle filtering in nonlinear systems
 • Slam
+
 As such the exercises cover the following theoretical subjects:
 1. Fundamentals of parameter estimation; static and scalar case
 2. Unbiased linear minimum mean square estimation; static and scalar case
